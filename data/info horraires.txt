@@ -1,0 +1,21 @@
+dimanche: 
+	guillaume		pizza 	16-22
+	antho			pizza	10h30-19
+	jordy			pizza	16-22
+	sarah-michelle	table	16h30-21
+	thalia			table	16-20
+	olivier			frite	11-19
+	j-p				frite	16h30-20
+	mathieu			frite	15-20
+	cédric			frite	11-14
+	william			frite	16h30-21
+	marc			frite	17-21
+	audrey			table	10h30-19
+	frite: 	- 1 journée
+			- 1 midi
+			- 4 soir
+	table:	- 1 journée
+			- 2 soir
+	pizza:	- 1 journée
+			- 2 soir
+	close:	- 2

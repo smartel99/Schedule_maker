@@ -1,0 +1,412 @@
+[
+    {
+        "nom": "Samuel",
+        "nom de famille": "Martel",
+        "code": "3070",
+        "nip": "69666",
+        "poste": "cuisine",
+        "date d'embauche": "25/07/1999",
+        "salaire": "12",
+        "disponibilit\u00e9e": {
+            "lundis": [
+                "OUI"
+            ],
+            "mardis": [
+                "OUI"
+            ],
+            "mercredis": [
+                "OUI"
+            ],
+            "jeudis": [
+                "OUI"
+            ],
+            "vendredis": [
+                "OUI"
+            ],
+            "samedis": [
+                "OUI"
+            ],
+            "dimanches": [
+                "OUI"
+            ]
+        },
+        "priorit\u00e9": 0,
+        "formation": [
+            "frite",
+            "table",
+            "panne",
+            "sauce",
+            "fromage",
+            "panier"
+        ],
+        "anciennet\u00e9": 6947
+    },
+    {
+        "nom": "Anthony",
+        "nom de famille": "Gendreau",
+        "code": "2760",
+        "nip": "69999",
+        "poste": "cuisine",
+        "date d'embauche": "16/05/2015",
+        "salaire": "14",
+        "disponibilit\u00e9e": {
+            "lundis": [
+                "ND"
+            ],
+            "mardis": [
+                "ND"
+            ],
+            "mercredis": [
+                "ND"
+            ],
+            "jeudis": [
+                "SOIR"
+            ],
+            "vendredis": [
+                "ND"
+            ],
+            "samedis": [
+                "ND"
+            ],
+            "dimanches": [
+                "JOURN\u00c9E"
+            ]
+        },
+        "priorit\u00e9": 1,
+        "formation": [
+            "frite",
+            "panier",
+            "sauce",
+            "fromage",
+            "panne",
+            "1",
+            "table",
+            "pizza",
+            "sortie",
+            "\u00e9tirage"
+        ],
+        "anciennet\u00e9": 1173
+    },
+    {
+        "nom": "\u00c9lose",
+        "nom de famille": "Doyon",
+        "code": "0045",
+        "nip": "12345",
+        "poste": "responsable",
+        "date d'embauche": "23/03/2016",
+        "salaire": "12",
+        "disponibilit\u00e9e": {
+            "lundis": [
+                "OUI"
+            ],
+            "mardis": [
+                "OUI"
+            ],
+            "mercredis": [
+                "OUI"
+            ],
+            "jeudis": [
+                "OUI"
+            ],
+            "vendredis": [
+                "OUI"
+            ],
+            "samedis": [
+                "ND"
+            ],
+            "dimanches": [
+                "ND"
+            ]
+        },
+        "priorit\u00e9": 2,
+        "formation": [
+            "secourisme"
+        ],
+        "anciennet\u00e9": 861
+    },
+    {
+        "nom": "Marie",
+        "nom de famille": "Barrette",
+        "code": "1212",
+        "nip": "12345",
+        "poste": "responsable",
+        "date d'embauche": "23/03/2008",
+        "salaire": "11.25",
+        "disponibilit\u00e9e": {
+            "lundis": [
+                "OUI"
+            ],
+            "mardis": [
+                "OUI"
+            ],
+            "mercredis": [
+                "OUI"
+            ],
+            "jeudis": [
+                "OUI"
+            ],
+            "vendredis": [
+                "OUI"
+            ],
+            "samedis": [
+                "ND"
+            ],
+            "dimanches": [
+                "ND"
+            ]
+        },
+        "priorit\u00e9": 3,
+        "formation": [
+            "cours"
+        ],
+        "anciennet\u00e9": 3783
+    },
+    {
+        "nom": "Malie",
+        "nom de famille": "Bergeron",
+        "code": "6780",
+        "nip": "12345",
+        "poste": "caisse",
+        "date d'embauche": "20/01/2018",
+        "salaire": "12",
+        "disponibilit\u00e9e": {
+            "lundis": [
+                "OUI"
+            ],
+            "mardis": [
+                "OUI"
+            ],
+            "mercredis": [
+                "OUI"
+            ],
+            "jeudis": [
+                "OUI"
+            ],
+            "vendredis": [
+                "OUI"
+            ],
+            "samedis": [
+                "OUI"
+            ],
+            "dimanches": [
+                "OUI"
+            ]
+        },
+        "priorit\u00e9": 4,
+        "formation": [
+            "base"
+        ],
+        "anciennet\u00e9": 193
+    },
+    {
+        "nom": "Jordy",
+        "nom de famille": "Chenel",
+        "code": "2210",
+        "nip": "12345",
+        "poste": "cuisine",
+        "date d'embauche": "03/12/2016",
+        "salaire": "12.25",
+        "disponibilit\u00e9e": {
+            "lundis": [
+                "OUI"
+            ],
+            "mardis": [
+                "OUI"
+            ],
+            "mercredis": [
+                "OUI"
+            ],
+            "jeudis": [
+                "OUI"
+            ],
+            "vendredis": [
+                "OUI"
+            ],
+            "samedis": [
+                "OUI"
+            ],
+            "dimanches": [
+                "OUI"
+            ]
+        },
+        "priorit\u00e9": 5,
+        "formation": [
+            "panier",
+            "sauce",
+            "fromage",
+            "frite",
+            "panne",
+            "1",
+            "table",
+            "sortie",
+            "pizza",
+            "\u00e9tirage"
+        ],
+        "anciennet\u00e9": 606
+    },
+    {
+        "nom": "Olivier",
+        "nom de famille": "Gendreau",
+        "code": "2020",
+        "nip": "99311",
+        "poste": "cuisine",
+        "date d'embauche": "14/10/2016",
+        "salaire": "12.25",
+        "disponibilit\u00e9e": {
+            "lundis": [
+                "OUI"
+            ],
+            "mardis": [
+                "ND"
+            ],
+            "mercredis": [
+                "ND"
+            ],
+            "jeudis": [
+                "OUI"
+            ],
+            "vendredis": [
+                "OUI"
+            ],
+            "samedis": [
+                "OUI"
+            ],
+            "dimanches": [
+                "JOURN\u00c9E"
+            ]
+        },
+        "priorit\u00e9": 6,
+        "formation": [
+            "frite",
+            "panier",
+            "sauce",
+            "fromage",
+            "panne",
+            "table",
+            "1",
+            "pizza",
+            "sortie",
+            "\u00e9tirage"
+        ],
+        "anciennet\u00e9": 656
+    },
+    {
+        "nom": "Audrey",
+        "nom de famille": "Toussaint",
+        "code": "6450",
+        "nip": "98022",
+        "poste": "cuisine",
+        "date d'embauche": "31/05/2014",
+        "salaire": "14",
+        "disponibilit\u00e9e": {
+            "lundis": [
+                "OUI"
+            ],
+            "mardis": [
+                "OUI"
+            ],
+            "mercredis": [
+                "OUI"
+            ],
+            "jeudis": [
+                "OUI"
+            ],
+            "vendredis": [
+                "OUI"
+            ],
+            "samedis": [
+                "OUI"
+            ],
+            "dimanches": [
+                "OUI"
+            ]
+        },
+        "priorit\u00e9": 7,
+        "formation": [
+            "1",
+            "table",
+            "sortie",
+            "\u00e9tirage"
+        ],
+        "anciennet\u00e9": 1523
+    },
+    {
+        "nom": "C\u00e9dric",
+        "nom de famille": "Ntaganda",
+        "code": "3140",
+        "nip": "41891",
+        "poste": "cuisine",
+        "date d'embauche": "08/12/2016",
+        "salaire": "12",
+        "disponibilit\u00e9e": {
+            "lundis": [
+                "OUI"
+            ],
+            "mardis": [
+                "OUI"
+            ],
+            "mercredis": [
+                "OUI"
+            ],
+            "jeudis": [
+                "OUI"
+            ],
+            "vendredis": [
+                "OUI"
+            ],
+            "samedis": [
+                "OUI"
+            ],
+            "dimanches": [
+                "OUI"
+            ]
+        },
+        "priorit\u00e9": 8,
+        "formation": [
+            "panier",
+            "sauce",
+            "fromage",
+            "panne"
+        ],
+        "anciennet\u00e9": 601
+    },
+    {
+        "nom": "Alice",
+        "nom de famille": "Martin",
+        "code": "6750",
+        "nip": "10590",
+        "poste": "caisse",
+        "date d'embauche": "13/10/2017",
+        "salaire": "12",
+        "disponibilit\u00e9e": {
+            "lundis": [
+                "OUI"
+            ],
+            "mardis": [
+                "ND"
+            ],
+            "mercredis": [
+                "OUI"
+            ],
+            "jeudis": [
+                "OUI"
+            ],
+            "vendredis": [
+                "OUI"
+            ],
+            "samedis": [
+                "OUI"
+            ],
+            "dimanches": [
+                "ND"
+            ]
+        },
+        "priorit\u00e9": 9,
+        "formation": [
+            "base",
+            "call",
+            "dispatch"
+        ],
+        "anciennet\u00e9": 292
+    }
+]

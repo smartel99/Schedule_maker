@@ -1,0 +1,362 @@
+[
+    {
+        "Lundi": {
+            "Caisses": {
+                "Journ\u00e9e": [
+                    "call"
+                ],
+                "Soir\u00e9e": [
+                    "base"
+                ],
+                "Close": [
+                    "call"
+                ]
+            },
+            "Frites": {
+                "Journ\u00e9e": [
+                    "panne"
+                ],
+                "Soir\u00e9e": [
+                    "panne",
+                    "frite",
+                    "frite"
+                ]
+            },
+            "Table": {
+                "Journ\u00e9e": [
+                    "1"
+                ],
+                "Close": [
+                    "1"
+                ]
+            },
+            "Pizza": {
+                "Journ\u00e9e": [
+                    "\u00e9tirage"
+                ],
+                "Soir\u00e9e": [
+                    "pizza"
+                ],
+                "Close": [
+                    "\u00e9tirage"
+                ]
+            },
+            "Respo": {
+                "Journ\u00e9e": 2,
+                "Close": 1
+            }
+        },
+        "Mardi": {
+            "Caisses": {
+                "Journ\u00e9e": [
+                    "call"
+                ],
+                "Soir\u00e9e": [
+                    "base"
+                ],
+                "Close": [
+                    "call"
+                ]
+            },
+            "Frites": {
+                "Journ\u00e9e": [
+                    "panne"
+                ],
+                "Soir\u00e9e": [
+                    "panne",
+                    "frite",
+                    "frite"
+                ]
+            },
+            "Table": {
+                "Journ\u00e9e": [
+                    "1"
+                ],
+                "Close": [
+                    "1"
+                ]
+            },
+            "Pizza": {
+                "Journ\u00e9e": [
+                    "\u00e9tirage"
+                ],
+                "Soir\u00e9e": [
+                    "pizza"
+                ],
+                "Close": [
+                    "\u00e9tirage"
+                ]
+            },
+            "Respo": {
+                "Journ\u00e9e": 2,
+                "Close": 1
+            }
+        },
+        "Mercredi": {
+            "Caisses": {
+                "Journ\u00e9e": [
+                    "call"
+                ],
+                "Soir\u00e9e": [
+                    "base",
+                    "base"
+                ],
+                "Close": [
+                    "call"
+                ]
+            },
+            "Frites": {
+                "Journ\u00e9e": [
+                    "panne"
+                ],
+                "Soir\u00e9e": [
+                    "panne",
+                    "frite",
+                    "frite"
+                ]
+            },
+            "Table": {
+                "Journ\u00e9e": [
+                    "1"
+                ],
+                "Close": [
+                    "1"
+                ]
+            },
+            "Pizza": {
+                "Journ\u00e9e": [
+                    "\u00e9tirage"
+                ],
+                "Soir\u00e9e": [
+                    "pizza"
+                ],
+                "Close": [
+                    "\u00e9tirage"
+                ]
+            },
+            "Respo": {
+                "Journ\u00e9e": 2,
+                "Close": 1
+            }
+        },
+        "Jeudi": {
+            "Caisses": {
+                "Journ\u00e9e": [
+                    "call",
+                    "base"
+                ],
+                "Soir\u00e9e": [
+                    "base",
+                    "base",
+                    "base"
+                ],
+                "Close": [
+                    "call"
+                ]
+            },
+            "Frites": {
+                "Journ\u00e9e": [
+                    "panne"
+                ],
+                "Soir\u00e9e": [
+                    "frite",
+                    "frite",
+                    "frite",
+                    "frite",
+                    "frite"
+                ]
+            },
+            "Table": {
+                "Journ\u00e9e": [
+                    "1",
+                    "table"
+                ],
+                "Soir\u00e9e": [
+                    "table"
+                ],
+                "Close": [
+                    "1"
+                ]
+            },
+            "Pizza": {
+                "Journ\u00e9e": [
+                    "\u00e9tirage"
+                ],
+                "Soir\u00e9e": [
+                    "pizza"
+                ],
+                "Close": [
+                    "\u00e9tirage"
+                ]
+            },
+            "Respo": {
+                "Journ\u00e9e": 2,
+                "Close": 1
+            }
+        },
+        "Vendredi": {
+            "Caisses": {
+                "Journ\u00e9e": [
+                    "call",
+                    "base"
+                ],
+                "Soir\u00e9e": [
+                    "base",
+                    "base",
+                    "base",
+                    "base"
+                ],
+                "Close": [
+                    "call"
+                ]
+            },
+            "Frites": {
+                "Journ\u00e9e": [
+                    "panne"
+                ],
+                "Soir\u00e9e": [
+                    "frite",
+                    "frite",
+                    "frite",
+                    "frite",
+                    "frite"
+                ]
+            },
+            "Table": {
+                "Journ\u00e9e": [
+                    "1",
+                    "table"
+                ],
+                "Soir\u00e9e": [
+                    "table"
+                ],
+                "Close": [
+                    "1"
+                ]
+            },
+            "Pizza": {
+                "Journ\u00e9e": [
+                    "\u00e9tirage"
+                ],
+                "Soir\u00e9e": [
+                    "pizza",
+                    "pizza"
+                ],
+                "Close": [
+                    "\u00e9tirage"
+                ]
+            },
+            "Respo": {
+                "Journ\u00e9e": 2,
+                "Close": 1
+            }
+        },
+        "Samedi": {
+            "Caisses": {
+                "Journ\u00e9e": [
+                    "call",
+                    "base"
+                ],
+                "Soir\u00e9e": [
+                    "base",
+                    "base",
+                    "base"
+                ],
+                "Close": [
+                    "call"
+                ]
+            },
+            "Frites": {
+                "Journ\u00e9e": [
+                    "panne"
+                ],
+                "Soir\u00e9e": [
+                    "frite",
+                    "frite",
+                    "frite",
+                    "frite"
+                ]
+            },
+            "Table": {
+                "Journ\u00e9e": [
+                    "1"
+                ],
+                "Soir\u00e9e": [
+                    "table"
+                ],
+                "Close": [
+                    "1"
+                ]
+            },
+            "Pizza": {
+                "Journ\u00e9e": [
+                    "\u00e9tirage"
+                ],
+                "Soir\u00e9e": [
+                    "pizza",
+                    "pizza"
+                ],
+                "Close": [
+                    "\u00e9tirage"
+                ]
+            },
+            "Respo": {
+                "Journ\u00e9e": 1,
+                "Close": 1
+            }
+        },
+        "Dimanche": {
+            "Caisses": {
+                "Journ\u00e9e": [
+                    "call",
+                    "base"
+                ],
+                "Soir\u00e9e": [
+                    "base",
+                    "base",
+                    "base"
+                ],
+                "Close": [
+                    "call"
+                ]
+            },
+            "Frites": {
+                "Journ\u00e9e": [
+                    "panne"
+                ],
+                "Soir\u00e9e": [
+                    "frite",
+                    "frite",
+                    "frite",
+                    "frite"
+                ]
+            },
+            "Table": {
+                "Journ\u00e9e": [
+                    "1"
+                ],
+                "Soir\u00e9e": [
+                    "table"
+                ],
+                "Close": [
+                    "1"
+                ]
+            },
+            "Pizza": {
+                "Journ\u00e9e": [
+                    "\u00e9tirage"
+                ],
+                "Soir\u00e9e": [
+                    "pizza"
+                ],
+                "Close": [
+                    "\u00e9tirage"
+                ]
+            },
+            "Respo": {
+                "Journ\u00e9e": 2,
+                "Close": 1
+            }
+        }
+    }
+]
